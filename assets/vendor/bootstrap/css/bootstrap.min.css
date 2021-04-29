@@ -54,7 +54,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #fff;
+  background-color: #cbe9f6;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
 }
@@ -5336,7 +5336,7 @@ fieldset:disabled .btn {
   line-break: auto;
   font-size: 0.875rem;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #cbe9f6;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.3rem;
@@ -6809,7 +6809,7 @@ fieldset:disabled .btn {
   background-color: #212529 !important;
 }
 .bg-body {
-  background-color: #fff !important;
+  background-color: #cbe9f6 !important;
 }
 .bg-white {
   background-color: #fff !important;
